@@ -69,5 +69,9 @@ Password: Somikoron
 Admin URL: http://127.0.0.1:8000/admin/
 ```
 
+### To show a single product view
+```bash
+URL Format: http://127.0.0.1:8000/chorasrot [where 'chorasrot' is a book id]
+```
 
 #### Thanks
